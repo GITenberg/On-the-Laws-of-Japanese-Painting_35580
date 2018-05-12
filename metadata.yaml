@@ -1,0 +1,34 @@
+_repo: On-the-Laws-of-Japanese-Painting_35580
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bowie, Henry P.
+    alias: Bowie, Henri P.
+    birthdate: 1848
+    deathdate: 1921
+    gutenberg_agent_id: '34595'
+    url: http://www.gutenberg.org/2009/agents/34595
+description: ''
+gutenberg_issued: '2011-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35580'
+  lccn: '12000706'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Painting, Japanese'
+tableOfContents: Personal experiences -- Art in Japan -- Laws for the use of brush
+  and materials -- Laws governing the conception and execution of a painting -- Canons
+  of the aesthetics of Japanese painting -- Subjects for Japanese painting -- Signatures
+  and seals -- Explanation of head-bands -- Plates explanatory of the foregoing text
+  on the laws of Japanese painting.
+title: 'On the Laws of Japanese Painting: An Introduction to the Study of the Art
+  of Japan'
+url: http://www.gutenberg.org/ebooks/35580
