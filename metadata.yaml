@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34595'
     url: http://www.gutenberg.org/2009/agents/34595
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35580#On-the-Laws-of-Japanese-Painting
 gutenberg_issued: '2011-03-16'
 gutenberg_type: Text
 identifiers:
